@@ -1,4 +1,4 @@
-' # Stripe payment gateway integration in React:
+# Stripe payment gateway integration in React:
 
 - Stripe is one of the leading payment gateways, and it allows businesses and individuals to accept payment through the use of their robust APIs and tools.
 
